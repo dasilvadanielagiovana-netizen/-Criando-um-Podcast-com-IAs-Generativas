@@ -12,4 +12,5 @@ Olá, ouvintes do Clara Capital! Hoje vamos explorar formas práticas de organiz
 🏁 Conclusão: Organizar suas finanças é uma estratégia para conquistar liberdade financeira. Pequenos ajustes e disciplina transformam o seu patrimônio. Eu sou Clara, e este foi o Clara Capital desta semana. �
 
 <img width="1024" height<img width="1024" height="1024" alt="Clara_Capital" src="https://github.com/user-attachments/assets/52a91b3a-61a3-43c2-9fdb-cf6b61506cda" />
-="1024" alt="Clara Capital" src="https://github.com/user-attachments/assets/a056ed27-bd43-4c63-8385-86ad9288a721" />
+
+[PodCast-_Capital.mp3](https://github.com/user-attachments/files/23111280/PodCast-_Capital.mp3)
